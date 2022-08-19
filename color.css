@@ -1,0 +1,15 @@
+        hr {
+            background-color: white;
+            border-color: black;
+            border-style: none solid dashed dotted;
+            height: 5px;
+            width: 10%;
+        }
+
+        h1 {
+            color: deeppink;
+        }
+
+        h6 {
+            color: #66bfbf
+        }
