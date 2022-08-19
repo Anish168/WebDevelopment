@@ -1,0 +1,21 @@
+body {
+    background-color: gold;
+}
+
+hr {
+    background-color: skyblue;
+    border-color: black;
+    border-style: none solid dashed dotted;
+    height: 5px;
+    width: 10%;
+}
+
+h1 {
+    color: deeppink;
+}
+h2{
+    color:crimson;
+}
+h6 {
+    color:chocolate;
+}
