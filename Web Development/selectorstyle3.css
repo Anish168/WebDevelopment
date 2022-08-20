@@ -1,0 +1,19 @@
+/* Selector 1 > Selector 2
+    |           |
+    Parent      Child */
+p > a{
+    color: green;
+}
+ul > li{
+    color: brown;
+}
+
+li > a{
+    color: palevioletred;
+}
+h1,p{
+    color: magenta;
+}
+input[type="text"]{
+    color:yellowgreen;
+}

@@ -1,0 +1,23 @@
+div{
+    width:400px;
+}
+.a{
+    text-align: left;
+}
+.b{
+    text-align: right;
+}
+.c{
+    text-align: center;
+}
+.d{
+    text-align:justify;
+}
+.cat{
+    line-height: 300px;
+}
+.dog{
+    font-size: 16px;
+    line-height: 20;    
+    /* 16*20px=320px */
+}

@@ -1,0 +1,20 @@
+p{
+    color:red;
+    background-color: skyblue;
+}
+#abc{
+    color: yellow;
+    background-color: red;
+}
+.xyz{
+    color: green;
+    background-color: grey;
+}
+.mno{
+    color: purple;
+    background-color: yellow;
+}
+p.xyz{
+    color: red;
+    background-color: skyblue;
+}
